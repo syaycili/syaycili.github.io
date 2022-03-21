@@ -56,12 +56,20 @@
         d = { linkedin: "https://www.linkedin.com/in/sarpyaycili/", github: "https://github.com/syaycili/" },
         p = [
           {
+            name: "fishmust.live",
+            description:
+              "\u0066\u0069\u0073\u0068\u006d\u0075\u0073\u0074\u002e\u006c\u0069\u0076\u0065\u003b \u006b\u0075\u006c\u006c\u0061\u006e\u0131\u0063\u0131\u006c\u0061\u0072\u0131\u006e \u0070\u006c\u0061\u0073\u0074\u0069\u006b \u006b\u0069\u0072\u006c\u0069\u006c\u0069\u011f\u0069 \u0061\u006c\u0061\u006e\u006c\u0061\u0072\u0131\u006e\u0131 \u0068\u0061\u0072\u0069\u0074\u0061\u0064\u0061 \u0067\u00f6\u0072\u0065\u0062\u0069\u006c\u0065\u0063\u0065\u011f\u0069\u002c \u0067\u00f6\u0072\u0064\u00fc\u006b\u006c\u0065\u0072\u0069 \u0070\u006c\u0061\u0073\u0074\u0069\u006b \u006b\u0069\u0072\u006c\u0069\u006c\u0069\u006b\u006c\u0065\u0072\u0069\u006e\u0069 \u006b\u006f\u006e\u0075\u006d\u006c\u0061\u0072\u0131 \u0069\u006c\u0065 \u0070\u0061\u0079\u006c\u0061\u015f\u0061\u0062\u0069\u006c\u0065\u0063\u0065\u006b\u006c\u0065\u0072\u0069\u002c \u0064\u0069\u011f\u0065\u0072 \u006b\u0075\u006c\u006c\u0061\u006e\u0131\u0063\u0131\u006c\u0061\u0072\u0131\u006e \u0070\u0061\u0079\u006c\u0061\u015f\u0074\u0131\u011f\u0131 \u0070\u006c\u0061\u0073\u0074\u0069\u006b \u006b\u0069\u0072\u006c\u0069\u006c\u0069\u006b\u006c\u0065\u0072\u0069\u006e\u0069 \u0067\u00f6\u0072\u0065\u0062\u0069\u006c\u0065\u0063\u0065\u006b\u006c\u0065\u0072\u0069 \u0062\u0069\u0072 \u0073\u006f\u0073\u0079\u0061\u006c \u0066\u0061\u0072\u006b\u0131\u006e\u0064\u0061\u006c\u0131\u006b \u0073\u0069\u0074\u0065\u0073\u0069\u0064\u0069\u0072\u002e",
+            stack: ["PHP", "Laravel", "AWS", "CSS", "Bootstrap", "Javascript", "Mapbox API", "MySQL"],
+            sourceCode: "https://github.com/syaycili/fishmustlive",
+            livePreview: "https://fishmust.live"
+          },
+          {
             name: "meetuptoteamup.com",
             description:
               "meetuptoteamup.com kullan\u0131c\u0131lar\u0131n tak\u0131m arkada\u015flar\u0131 bulmas\u0131na, tak\u0131m kurmas\u0131na ve birbirleri ile ileti\u015fim halinde projeler geli\u015ftirmesine yard\u0131mc\u0131 olan online bir platformdur.",
             stack: ["Laravel", "Vue.js", "MySQL"],
             sourceCode: "https://github.com/syaycili/meetuptoteamup",
-            livePreview: "https://www.meetuptoteamup.com",
+            livePreview: "https://meetuptoteamup.com",
           },
           {
             name: "matcevap.ninja",
