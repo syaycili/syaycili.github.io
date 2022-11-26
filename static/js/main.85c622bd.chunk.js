@@ -71,14 +71,14 @@
             sourceCode: "https://github.com/syaycili/meetuptoteamup",
             livePreview: "https://meetuptoteamup.com",
           },
-        //  {
-        //    name: "matcevap.ninja",
-        //    description:
-        //      "Matcevap.ninja kullan\u0131c\u0131lar\u0131n matematik \xf6devlerinde yard\u0131m alabilece\u011fi ve di\u011fer kullan\u0131c\u0131lara yard\u0131m edebilece\u011fi, soru payla\u015f\u0131m platformudur.",
-        //    stack: ["PHP", "HTML", "CSS", "Javascript"],
-        //    sourceCode: "https://www.github.com/syaycili/matcevap.ninja",
-        //    livePreview: "https://matcevap.ninja/",
-        //  },
+          {
+            name: "matcevap.ninja",
+            description:
+              "Matcevap.ninja kullan\u0131c\u0131lar\u0131n matematik \xf6devlerinde yard\u0131m alabilece\u011fi ve di\u011fer kullan\u0131c\u0131lara yard\u0131m edebilece\u011fi, soru payla\u015f\u0131m platformudur.",
+            stack: ["PHP", "HTML", "CSS", "Javascript"],
+            sourceCode: "https://www.github.com/syaycili/matcevap.ninja",
+            livePreview: "https://matcevap.ninja/",
+          },
           {
             name: "Hexagon Tak\u0131m Sitesi",
             description:
