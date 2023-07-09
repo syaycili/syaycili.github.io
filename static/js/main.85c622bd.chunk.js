@@ -51,7 +51,7 @@
         b = "Sarp Yayc\u0131l\u0131",
         u = "Full Stack Developer",
         m =
-          "T\xfcrk E\u011fitim Vakf\u0131 \u0130nan\xe7 T\xfcrke\u015f \xd6zel Lisesi 11. S\u0131n\u0131f \xf6\u011frencisi ve Full Stack Developer. PHP \xfczerinden web uygulamalar\u0131 geli\u015ftirmekteyim. Projelerimde Laravel ve Vue.js kullanmaktay\u0131m.",
+          "T\xfcrk E\u011fitim Vakf\u0131 \u0130nan\xe7 T\xfcrke\u015f \xd6zel Lisesi 12. S\u0131n\u0131f \xf6\u011frencisi ve Full Stack Developer. PHP \xfczerinden web uygulamalar\u0131 geli\u015ftirmekteyim. Projelerimde Laravel ve Vue.js kullanmaktay\u0131m.",
         h = "https://syaycili.github.io/sarpyaycili_cv.docx",
         d = { linkedin: "https://www.linkedin.com/in/sarpyaycili/", github: "https://github.com/syaycili/" },
         p = [
